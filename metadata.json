@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision - AI Onion Grading",
+  "description": "Smart India Hackathon AI-powered onion grading app solving the occlusion problem with dual-surface scanning and Material 3 design.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
